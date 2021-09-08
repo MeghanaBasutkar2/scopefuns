@@ -1,0 +1,1 @@
+data class UserObj(var name: String, var id: Int, val phone: String)
